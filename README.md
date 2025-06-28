@@ -52,7 +52,7 @@ Before using the **All Serial Spoofer**, ensure you have the following:
 
 ### Step 1: Download the Spoofer
 
-1. Navigate to the **[Releases](https://github.com/your-repo/releases)** section of the GitHub repository.
+1. Navigate to the **[Releases])** section of the GitHub repository.
 2. Download the latest version of **`SerialSpoofer.exe`**.
 
 ### Step 2: Extract Files
