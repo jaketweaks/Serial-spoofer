@@ -19,7 +19,6 @@ This tool works by modifying the identifiers that are tracked by certain games, 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Modification Guide](#modification-guide)
-- [Proof of Concept](#proof-of-concept)
 - [FAQ](#faq)
 - [License](#license)
 
